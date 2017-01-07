@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleArrowProgress">
+        <attr name="CircleWidth" format="dimension" />
+        <attr name="CircleColor" format="color" />
+        <attr name="CircleArrowSize" format="dimension" />
+        <attr name="CircleStartDegree" format="float"/>
+        <attr name="CircleAutoStart" format="boolean"/>
+    </declare-styleable>
+</resources>
